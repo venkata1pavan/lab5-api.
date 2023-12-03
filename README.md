@@ -13,3 +13,6 @@ http://127.0.0.1:8000/api/public/
 
 
 ![Screenshot (287)](https://github.com/venkata1pavan/lab5-api./assets/146666225/dd635e01-d44d-4952-aff8-9c5491545ddf)
+
+
+![Screenshot (288)](https://github.com/venkata1pavan/lab5-api./assets/146666225/8daafffd-f8dd-47a2-8555-5cc4ba809852)
