@@ -10,3 +10,6 @@ And i visited the following URL in your browse
 And i visited the following URL in your browser:
 http://127.0.0.1:8000/api/public/
 
+
+
+![Screenshot (287)](https://github.com/venkata1pavan/lab5-api./assets/146666225/dd635e01-d44d-4952-aff8-9c5491545ddf)
